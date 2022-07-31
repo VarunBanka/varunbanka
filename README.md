@@ -16,10 +16,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/varunbanka18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="varunbanka18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/varun-banka-94a17b246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-banka-94a17b246/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:19275062" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19275062" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/varun-banka-94a17b246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-banka-94a17b246/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19275062" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19275062" height="30" width="40" /></a>
 <a href="https://instagram.com/varunbanka18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varunbanka18" height="30" width="40" /></a>
-<a href="https://discord.gg/Varun#4158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Varun#4158" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
