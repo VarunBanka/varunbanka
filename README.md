@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Kotlin & JavaScript (advanced)**
 
-- 👨‍💻 All of my projects are available at [https://varunbanka.github.io/projects/](https://varunbanka.github.io/projects/)
+- 👨‍💻 My website https://varun-banka.godaddysites.com/
 
 - 📫 How to reach me **bankavarun18@gmail.com**
 
