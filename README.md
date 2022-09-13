@@ -26,10 +26,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunbanka&show_icons=true&locale=en&layout=compact" alt="varunbanka" /></p>
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varunbanka&show_icons=true&locale=en" alt="varunbanka" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunbanka&" alt="varunbanka" /></p>
-
 
 <a href="https://www.buymeacoffee.com/bankavarunk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
