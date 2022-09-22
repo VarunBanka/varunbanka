@@ -10,7 +10,7 @@
 
 
 
-🌱 I’m currently learning Kotlin & JavaScript (advanced)
+🌱 I’m currently learning Flutter & JavaScript (advanced)
 
 👨‍💻 My website https://varun-banka.godaddysites.com/
 
