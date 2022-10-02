@@ -38,7 +38,7 @@
 
 ## 🏆 GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=codescientists&theme=onedark&row=1&column=6)](https://github.com/codescientists/github-profile-trophy) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=VarunBanka&theme=onedark&row=1&column=6)](https://github.com/VarunBanka/github-profile-trophy) 
 
 
 
