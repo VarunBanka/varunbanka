@@ -36,6 +36,12 @@
 
 
 
+## 🏆 GitHub Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=codescientists&theme=onedark&row=1&column=6)](https://github.com/codescientists/github-profile-trophy) 
+
+
+
 <p align="left"><img align="left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=VarunBanka&theme=radical"></p>
 
 
