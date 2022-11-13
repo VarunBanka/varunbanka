@@ -1,7 +1,9 @@
 # <img src="res/Hi.gif" width="30px" height="30px"> Hey There 👋, I’m Varun Banka!
 
+I do relate to those php memes
+
 # 💫 About Me:
-🌱 I’m currently learning Flutter & JavaScript (advanced)<br><br>👨‍💻 My website https://varunbanka.github.io/my-portfolio/<br><br>📫 Feel free to contact me by dropping a mail on- bankavarun18@gmail.com<br><br>⚡ Fun fact I am a self taught programmer
+🌱 I’m currently learning php <br><br>👨‍💻 My website https://varunbanka.github.io/my-portfolio/<br><br>📫 Feel free to contact me by dropping a mail on- bankavarun18@gmail.com<br><br>⚡ Fun fact I am a self taught programmer
 
 
 ## 🌐 Socials:
@@ -30,4 +32,4 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bankavarunk) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/VarunBanka) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/varunbanka) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) (I know that i can remove this comment but i havent ffs........) -->
