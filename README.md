@@ -3,7 +3,13 @@
 I do relate to those php memes
 
 # 💫 About Me:
-🌱 I’m currently learning php <br><br>👨‍💻 My website https://varunbanka.github.io/my-portfolio/<br><br>📫 Feel free to contact me by dropping a mail on- bankavarun18@gmail.com<br><br>⚡ Fun fact I am a self taught programmer
+
+I am passionate about all things Tech. Currently preparing for my board exams.
+Interested to learn more about the field of tech and use that knowledge for the same. I also help people build
+apps, servers, websites and cybersecurity. I'm also administrator of <a
+href="https://geeksecurity.in/">geeksecurity</a>...
+
+🌱 I’m currently learning react <br><br>👨‍💻 My website https://varunbanka.github.io/my-portfolio/<br><br>📫 Feel free to contact me by dropping a mail on- bankavarun18@gmail.com<br><br>⚡ Fun fact I am a self taught programmer
 
 
 ## 🌐 Socials:
