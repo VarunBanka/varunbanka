@@ -1,6 +1,11 @@
+![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)
+
+
 # <img src="res/Hi.gif" width="30px" height="30px"> Hey There 👋, I’m Varun Banka!
 
-I do relate to those php memes
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+Myself+Varun+Banka;I'm+front-end+WebDev+And+Ethical+hacker;I+do+relate+to+those+php+memes;I'm+the+administrator+of+geeksecurity" alt="Typing SVG" /></a></p>
 
 # 💫 About Me:
 
