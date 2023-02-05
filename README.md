@@ -7,10 +7,7 @@
  
 # 💫 About Me:
 
-I am passionate about all things Tech. Currently preparing for my board exams.
-Interested to learn more about the field of tech and use that knowledge for the same. I also help people build
-apps, servers, websites and cybersecurity. I'm also the administrator of <a
-href="https://geeksecurity.in/">geeksecurity</a>...
+As a technology enthusiast, I am driven by a passion for creating innovative solutions and staying at the forefront of advancements in the field. With a background in software development, CPUs, GPUs, phones, laptops, cybersecurity, and IT, I am well-versed in a wide range of technologies and methodologies. In addition to building my own projects, I enjoy helping others bring their ideas to life by providing guidance and support in areas such as app development, server administration, and website building. I believe that skills are more important than certifications and I am currently preparing for my board exams to enhance my knowledge and skills. I am always looking for new opportunities to learn, collaborate, and create impactful technology solutions.
 
 🌱 I’m currently learning react <br><br>👨‍💻 My website https://varunbanka.github.io/my-portfolio/<br><br>📫 Feel free to contact me by dropping a mail on- bankavarun18@gmail.com<br><br>⚡ Fun fact I am a self taught programmer
 
